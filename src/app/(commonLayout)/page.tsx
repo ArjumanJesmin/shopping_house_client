@@ -1,8 +1,12 @@
 import React from "react";
-// import { ModeToggle } from "../../components/ui/ModeToggle";
+import { HeroSection } from "../components/HomePage/HeroSection";
 
 const HomePage = () => {
-  return <div>{/* <ModeToggle /> */}</div>;
+  return (
+    <div className="h-[200px]">
+      <HeroSection />
+    </div>
+  );
 };
 
 export default HomePage;

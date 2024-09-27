@@ -15,7 +15,7 @@ export default function CommonLayout({
     <html lang="en">
       <body>
         <Navigation />
-        {children}
+        <div className="max-w-screen-xl mx-auto px-4 sm:px-6">{children}</div>
       </body>
     </html>
   );
