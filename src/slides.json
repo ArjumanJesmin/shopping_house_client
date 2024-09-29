@@ -1,0 +1,42 @@
+[
+  {
+    "image": "https://images.pexels.com/photos/853151/pexels-photo-853151.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "Welcome to Our Platform",
+    "subtitle": "Discover Unlimited Possibilities",
+    "description": "Join us and explore an array of opportunities that await you.",
+    "buttonText": "Get Started",
+    "buttonLink": "/get-started"
+  },
+  {
+    "image": "https://images.pexels.com/photos/248021/pexels-photo-248021.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "Explore New Features",
+    "subtitle": "Innovative Solutions",
+    "description": "Our platform offers cutting-edge features designed to enhance your experience.",
+    "buttonText": "Learn More",
+    "buttonLink": "/learn-more"
+  },
+  {
+    "image": "https://images.pexels.com/photos/191877/pexels-photo-191877.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "Unmatched Quality",
+    "subtitle": "Excellence in Every Step",
+    "description": "We provide high-quality services tailored to meet your needs.",
+    "buttonText": "See Quality",
+    "buttonLink": "/quality"
+  },
+  {
+    "image": "https://images.pexels.com/photos/3780681/pexels-photo-3780681.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "Innovation at its Best",
+    "subtitle": "Leading the Way",
+    "description": "Our platform is built on innovation and creativity.",
+    "buttonText": "Explore Now",
+    "buttonLink": "/explore"
+  },
+  {
+    "image": "https://images.pexels.com/photos/815494/pexels-photo-815494.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "Join Us Today",
+    "subtitle": "Be a Part of Our Journey",
+    "description": "Sign up now and become part of an amazing community.",
+    "buttonText": "Join Now",
+    "buttonLink": "/join"
+  }
+]

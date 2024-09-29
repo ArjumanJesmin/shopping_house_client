@@ -1,10 +1,12 @@
 import React from "react";
 import { HeroSection } from "../components/HomePage/HeroSection";
+import { SliderSection } from "../components/HomePage/SliderSection";
 
 const HomePage = () => {
   return (
-    <div className="h-[200px]">
+    <div>
       <HeroSection />
+      <SliderSection />
     </div>
   );
 };
