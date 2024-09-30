@@ -14,8 +14,7 @@ export default function CommonLayout({
   return (
     <html lang="en">
       <body>
-        <Dashboard />
-        {children}
+        <Dashboard>{children}</Dashboard>
       </body>
     </html>
   );
