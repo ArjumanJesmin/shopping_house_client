@@ -28,10 +28,10 @@ export function Navigation() {
             <span className="sr-only">Acme Inc</span>
           </Link>
           <Link
-            href="#"
+            href="/"
             className="text-muted-foreground transition-colors hover:text-foreground"
           >
-            Dashboard
+            Home
           </Link>
           <Link
             href="#"
@@ -85,7 +85,7 @@ export function Navigation() {
                 Home
               </Link>
               <Link
-                href="#"
+                href="/"
                 className="text-muted-foreground hover:text-foreground"
               >
                 Orders
@@ -127,7 +127,14 @@ export function Navigation() {
               <DropdownMenuLabel>My Account</DropdownMenuLabel>
               <DropdownMenuSeparator />
               <DropdownMenuItem>Settings</DropdownMenuItem>
-              <DropdownMenuItem>Support</DropdownMenuItem>
+              <DropdownMenuItem>
+                <Link
+                  href="/dashboard"
+                  className="text-muted-foreground hover:text-foreground"
+                >
+                  Dashboard
+                </Link>
+              </DropdownMenuItem>
               <DropdownMenuSeparator />
               <DropdownMenuItem>Logout</DropdownMenuItem>
             </DropdownMenuContent>
